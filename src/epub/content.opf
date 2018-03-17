@@ -30,20 +30,20 @@
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">The Story of Gösta Berling</dc:title>
 		<meta property="file-as" refines="#title">Story of Gösta Berling, The</meta>
-		<dc:subject id="subject-1">SUBJECT1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT2</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
-		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
+		<dc:subject id="subject-1">Swedish fiction -- Translations into English</dc:subject>
+		<dc:subject id="subject-2">Värmland (Sweden) -- Fiction</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/56158</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/56158</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Gösta Berling, dismissed as a priest, ends up adventuring with a group of societal outcasts.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			LONGDESCRIPTION
-		]]></meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Set in the 1820s in central Sweden, &lt;i&gt;The Story of Gösta Berling&lt;/i&gt; follows the saga of the titular character as he falls from the priesthood and is rescued by the owner of a local estate. Joining the other saved souls in the pensioners’ wing of the mansion, he embarks upon a series of larger-than-life stories that tell of adventure, revelry, romance and sadness.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Gösta Berling&lt;/i&gt; was the eventual Nobel Prize winner Selma Lagerlöf’s first published novel, and was written as an entry to a magazine competition. The richly detailed landscapes of Värmland were drawn from her own upbringing there, and the local folk tales inspired many of the individual stories in the book. The original was published in Swedish in 1891; this edition is based on the 1898 English translation by Pauline Bancroft Flach.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/56158</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Story_of_G%C3%B6sta_Berling</meta>
