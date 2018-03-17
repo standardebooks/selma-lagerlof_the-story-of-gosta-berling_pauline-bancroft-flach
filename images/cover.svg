@@ -22,8 +22,8 @@
 		}
 	</style>
 	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
-	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
-	<text class="title" x="700" y="1775">THE STORY OF</text>
+	<path class="title-box" d="M 50,1595 1350,1595 1350,2050 50,2050 Z"/>
+	<text class="title" x="700" y="1750">THE STORY OF</text>
 	<text class="title" x="700" y="1875">GÖSTA BERLING</text>
 	<text class="author" x="700" y="1975">SELMA LAGERLÖF</text>
 </svg>
