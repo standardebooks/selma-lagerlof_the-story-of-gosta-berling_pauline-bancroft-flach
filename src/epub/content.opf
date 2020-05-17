@@ -39,7 +39,7 @@
 		<dc:description id="description">A disgraced priest ends up adventuring with a group of societal outcasts.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Set in the 1820s in central Sweden, &lt;i&gt;The Story of Gösta Berling&lt;/i&gt; follows the saga of the titular character as he falls from the priesthood and is rescued by the owner of a local estate. Joining the other saved souls in the pensioners’ wing of the mansion, he embarks upon a series of larger-than-life stories that tell of adventure, revelry, romance and sadness.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Gösta Berling&lt;/i&gt; was the eventual Nobel Prize winner Selma Lagerlöf’s first published novel, and was written as an entry to a magazine competition. The richly detailed landscapes of Värmland were drawn from her own upbringing there, and the local folk tales inspired many of the individual stories in the book. The original was published in Swedish in 1891; this edition is based on the 1898 English translation by Pauline Bancroft Flach.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Gösta Berling&lt;/i&gt; was the eventual Nobel Prize winner &lt;a href="https://standardebooks.org/ebooks/selma-lagerlof"&gt;Selma Lagerlöf’s&lt;/a&gt; first published novel, and was written as an entry to a magazine competition. The richly detailed landscapes of Värmland were drawn from her own upbringing there, and the local folk tales inspired many of the individual stories in the book. The original was published in Swedish in 1891; this edition is based on the 1898 English translation by Pauline Bancroft Flach.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/56158</dc:source>
