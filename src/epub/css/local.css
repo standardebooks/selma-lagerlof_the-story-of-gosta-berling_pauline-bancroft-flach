@@ -6,11 +6,6 @@ footer{
 	margin-top: 1em;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:song"] p{
 	text-align: left;
