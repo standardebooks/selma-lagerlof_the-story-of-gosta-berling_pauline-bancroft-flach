@@ -64,7 +64,7 @@
 		<dc:contributor id="artist">Hanna Hirsch-Pauli</dc:contributor>
 		<meta property="file-as" refines="#artist">Hirsch-Pauli, Hanna</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Hanna_Hirsch-Pauli</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n98107033</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n98107033</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Edwards</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Edwards, David</meta>
