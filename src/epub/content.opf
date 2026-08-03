@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/selma-lagerlof/the-story-of-gosta-berling/pauline-bancroft-flach</dc:identifier>
 		<dc:date>2018-03-23T22:49:50Z</dc:date>
@@ -37,11 +37,11 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85052200</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A disgraced priest ends up adventuring with a group of societal outcasts.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A disgraced priest ends up adventuring with a group of societal outcasts.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Set in the 1820s in central Sweden, &lt;i&gt;The Story of Gösta Berling&lt;/i&gt; follows the saga of the titular character as he falls from the priesthood and is rescued by the owner of a local estate. Joining the other saved souls in the pensioners’ wing of the mansion, he embarks upon a series of larger-than-life stories that tell of adventure, revelry, romance and sadness.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Gösta Berling&lt;/i&gt; was the eventual Nobel Prize winner &lt;a href="https://standardebooks.org/ebooks/selma-lagerlof"&gt;Selma Lagerlöf’s&lt;/a&gt; first published novel, and was written as an entry to a magazine competition. The richly detailed landscapes of Värmland were drawn from her own upbringing there, and the local folk tales inspired many of the individual stories in the book. The novel was published in Swedish in 1891; this edition is based on the 1898 English translation by Pauline Bancroft Flach. In 1924 the story was made into a silent film, launching the career of Greta Garbo.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/56158</dc:source>
 		<dc:source>https://archive.org/details/storygstaberlin02lagegoog</dc:source>
