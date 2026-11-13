@@ -65,7 +65,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="artist">Hanna Hirsch-Pauli</dc:contributor>
 		<meta property="file-as" refines="#artist">Hirsch-Pauli, Hanna</meta>
-		<link href="https://en.wikipedia.org/wiki/Hanna_Hirsch-Pauli" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Hanna_Pauli" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n98107033.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Edwards</dc:contributor>
